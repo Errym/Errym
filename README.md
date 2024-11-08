@@ -32,7 +32,7 @@ Thanks for stopping by, and happy coding! 🚀😊
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Errym&theme=merko)](https://github.com/Errym/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Errym&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errym&layout=donut&theme=merko)](https://github.com/Errym/github-readme-stats)
 
 </div>
