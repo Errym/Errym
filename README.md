@@ -31,9 +31,12 @@ Thanks for stopping by, and happy coding! 🚀😊
 
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Errym&theme=ads-juicy-fresh" alt="GitHub Streak" /></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Errym&theme=merko)](https://github.com/Errym/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errym&layout=donut&theme=merko)](https://github.com/Errym/github-readme-stats)
+
 </div>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -90,7 +93,6 @@ Thanks for stopping by, and happy coding! 🚀😊
 
 <br clear="both">
 
-### Watch the Snake 🐍 Eating My Contributions!
 
 ![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
