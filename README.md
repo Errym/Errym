@@ -14,7 +14,7 @@ Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻 who 
 ---
 
 ### My Toolkit 🛠️
-- **Languages & Frameworks:** Java, Kotlin, and Flutter, and dabbling in Swift!
+- **Languages & Frameworks:** Java, Kotlin, and Flutter, React Native and dabbling in Swift!
 - **Databases:** SQLite, Firebase, and SQL.
 - **Currently Exploring:** DevOps and Software Engineering 🚀
 
