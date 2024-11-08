@@ -34,8 +34,7 @@ Thanks for stopping by, and happy coding! 🚀😊
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Errym&theme=ads-juicy-fresh" alt="GitHub Streak" /></a>
 </div>
 ###
-
-<img src="https://assets.pinterest.com/ext/embed.html?id=751397519092484117" height="316" width="345" frameborder="0" scrolling="no" ></img>
+<div class="tenor-gif-embed" data-postid="25575161" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/shirosu-pixel-art-final-fantasy-tifa-tifa-lockhart-gif-25575161">Shirosu Pixel Art GIF</a>from <a href="https://tenor.com/search/shirosu-gifs">Shirosu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 <div align="left">
