@@ -35,7 +35,7 @@ Thanks for stopping by, and happy coding! 🚀😊
 </div>
 ###
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=751397519092484117" height="316" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=751397519092484117" height="316" width="345" frameborder="0" scrolling="no" ></img>
 
 ###
 <div align="left">
