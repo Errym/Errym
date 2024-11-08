@@ -32,7 +32,6 @@ Thanks for stopping by, and happy coding! 🚀😊
 
 
 <div align="center">
- ![Errym's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Errym&theme=chartreuse-dark&hide_border=true)
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
