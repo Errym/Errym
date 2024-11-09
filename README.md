@@ -1,8 +1,10 @@
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
+  # Hey there! 👋 I'm Meryem! 😊
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
 <br><br>
 </div>
-# Hey there! 👋 I'm Meryem! 😊
 
 Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻 who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation! 🌈✨
 
@@ -41,11 +43,14 @@ Thanks for stopping by, and happy coding! 🚀😊
 
 
 <div align="center">
-
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Errym&theme=merko)](https://github.com/Errym/github-readme-stats)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="300" >
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errym&layout=donut&theme=merko)](https://github.com/Errym/github-readme-stats)
 
 </div>
+
 
 
 <div align="left">
@@ -72,7 +77,6 @@ Thanks for stopping by, and happy coding! 🚀😊
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -86,18 +90,11 @@ Thanks for stopping by, and happy coding! 🚀😊
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
 
-###
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br><br>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
 
 ###
 
