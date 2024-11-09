@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<br><br>
+</div>
 # Hey there! 👋 I'm Meryem! 😊
 
 Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻 who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation! 🌈✨
@@ -28,6 +32,12 @@ Thanks for stopping by, and happy coding! 🚀😊
 ---
 
 *“Turning ideas into code, one app at a time!”* 🌟
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+ 
 
 
 <div align="center">
