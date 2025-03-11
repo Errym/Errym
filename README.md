@@ -46,7 +46,8 @@ I believe in **continuous learning**, so I'm constantly honing my skills in clou
 - **Containerization**: Docker, Kubernetes
 - **IaC**: Terraform, AWS CloudFormation
 - **Monitoring**: Prometheus, Grafana, CloudWatch
-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 - ### 📚 Learning Goals
 - Gain deeper knowledge in **Cloud Computing** (AWS, GCP, Azure).
@@ -54,7 +55,6 @@ I believe in **continuous learning**, so I'm constantly honing my skills in clou
 - Become proficient in **Containerization & Orchestration** (Docker & Kubernetes).
 - Understand **Infrastructure as Code (IaC)** tools and best practices.
 - Improve cloud security and scalability knowledge.
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
