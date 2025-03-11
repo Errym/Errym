@@ -32,9 +32,9 @@ I believe in **continuous learning**, so I'm constantly honing my skills in clou
 - **Databases:** SQLite <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="15">, Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="15">, and SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="15">
 - **Relational**: MySQL, PostgreSQL, SQLite
 - **NoSQL**: MongoDB, Firebase
-- 
+  
 - **Currently Exploring:**  Cloud DevOps Engineering 🌈✨
-- 
+  
 - #### 🌐 Cloud Platforms:
 - **AWS** (EC2, S3, Lambda, RDS)
 - **Google Cloud** (Compute Engine, GCP Kubernetes)
