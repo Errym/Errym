@@ -24,18 +24,20 @@ I believe in **continuous learning**, so I'm constantly honing my skills in clou
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### My Toolkit   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;
-- **Languages & Frameworks:** Java  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="java logo"  />
+ **Languages & Frameworks:**
+- Java  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="java logo"  />
 , Kotlin  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="15" alt="kotlin logo"  />
 , Flutter  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="15" alt="flutter logo"  />
 , React Native  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="15" alt="react logo"  />
  and dabbling in Swift  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15" alt="swift logo"  />!
-- **Databases:** SQLite <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="15">, Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="15">, and SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="15">
+  **Databases:**
+-  SQLite <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="15">, Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="15">, and SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="15">
 - **Relational**: MySQL, PostgreSQL, SQLite
 - **NoSQL**: MongoDB, Firebase
   
-- **Currently Exploring:**  Cloud DevOps Engineering 🌈✨
+ **Currently Exploring:**  Cloud DevOps Engineering 🌈✨
   
-- #### 🌐 Cloud Platforms:
+ #### 🌐 Cloud Platforms:
 - **AWS** (EC2, S3, Lambda, RDS)
 - **Google Cloud** (Compute Engine, GCP Kubernetes)
 - **Azure** (App Services, Azure Functions)
