@@ -11,7 +11,6 @@ I have a strong passion for learning, and I'm always excited to dive into new ch
 I believe in **continuous learning**, so I'm constantly honing my skills in cloud platforms like **AWS**, **Google Cloud**, and **Azure**, as well as **CI/CD pipelines**, **Docker**, **Kubernetes**, and **Infrastructure as Code (IaC)** tools like **Terraform**.
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="50">&nbsp;
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### A Little About Me:     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50">&nbsp;
