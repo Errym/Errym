@@ -29,7 +29,10 @@ I believe in **continuous learning**, so I'm constantly honing my skills in clou
 , Flutter  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="15" alt="flutter logo"  />
 , React Native  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="15" alt="react logo"  />
  and dabbling in Swift  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15" alt="swift logo"  />!
-- **Databases:** SQLite <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="15">, Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="15">, and SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="15">.
+- **Databases:** SQLite <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="15">, Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="15">, and SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="15">
+- **Relational**: MySQL, PostgreSQL, SQLite
+- **NoSQL**: MongoDB, Firebase
+- 
 - **Currently Exploring:**  Cloud DevOps Engineering 🌈✨
 - 
 - #### 🌐 Cloud Platforms:
@@ -43,6 +46,8 @@ I believe in **continuous learning**, so I'm constantly honing my skills in clou
 - **IaC**: Terraform, AWS CloudFormation
 - **Monitoring**: Prometheus, Grafana, CloudWatch
 - 
+- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 - ### 📚 Learning Goals
 - Gain deeper knowledge in **Cloud Computing** (AWS, GCP, Azure).
 - Master **CI/CD pipelines** and **DevOps Automation**.
