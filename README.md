@@ -4,7 +4,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
 </div>
 
-Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation!    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="50">&nbsp;
+Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation!, ecently expanded my horizons into **Cloud Engineering and DevOps**. With a solid foundation in mobile development (Java, Kotlin, Flutter), I'm now focusing on building scalable and secure cloud infrastructures while automating deployment pipelines to enhance development workflows.
+
+I have a strong passion for learning, and I'm always excited to dive into new challenges. My goal is to integrate **cloud technologies** and **DevOps practices** into my work, to build seamless, efficient, and automated systems. 
+
+I believe in **continuous learning**, so I'm constantly honing my skills in cloud platforms like **AWS**, **Google Cloud**, and **Azure**, as well as **CI/CD pipelines**, **Docker**, **Kubernetes**, and **Infrastructure as Code (IaC)** tools like **Terraform**.
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="50">&nbsp;
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -25,7 +30,26 @@ Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻who l
 , React Native  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="15" alt="react logo"  />
  and dabbling in Swift  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15" alt="swift logo"  />!
 - **Databases:** SQLite <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="15">, Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="15">, and SQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="15">.
-- **Currently Exploring:**  Cloud DevOps Engineering 🌈✨ 
+- **Currently Exploring:**  Cloud DevOps Engineering 🌈✨
+- 
+- #### 🌐 Cloud Platforms:
+- **AWS** (EC2, S3, Lambda, RDS)
+- **Google Cloud** (Compute Engine, GCP Kubernetes)
+- **Azure** (App Services, Azure Functions)
+
+#### 🚀 DevOps Tools:
+- **CI/CD**: Jenkins, GitLab CI, AWS CodePipeline
+- **Containerization**: Docker, Kubernetes
+- **IaC**: Terraform, AWS CloudFormation
+- **Monitoring**: Prometheus, Grafana, CloudWatch
+- 
+- ### 📚 Learning Goals
+- Gain deeper knowledge in **Cloud Computing** (AWS, GCP, Azure).
+- Master **CI/CD pipelines** and **DevOps Automation**.
+- Become proficient in **Containerization & Orchestration** (Docker & Kubernetes).
+- Understand **Infrastructure as Code (IaC)** tools and best practices.
+- Improve cloud security and scalability knowledge.
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
