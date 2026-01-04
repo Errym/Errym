@@ -12,7 +12,7 @@ Welcome to my GitHub corner! I'm a passionate mobile <img src="https://user-imag
  **Mobile Dev Enthusiast** – I create apps that blend functionality with flair!
 -  **Constant Learner** – Currently diving into advanced frameworks and tools to level up my skills.
 -  **Music Lover** – I sing when I’m coding my way through tricky problems 
--  **Foodie**, 📚 **Manga Reader**, & 🎬 **Anime Lover** – Coding fuel and chill vibes. 
+-  **Foodie**, **Manga Reader**, &  **Anime Lover** – Coding fuel and chill vibes. 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -28,7 +28,7 @@ Welcome to my GitHub corner! I'm a passionate mobile <img src="https://user-imag
 - **Relational**: MySQL, PostgreSQL, SQLite
 - **NoSQL**: MongoDB, Firebase
   
- **Currently Exploring:**  Software Engineering 🌈✨
+ **Currently Exploring:**  Software Engineering ✨
 
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -36,7 +36,7 @@ Welcome to my GitHub corner! I'm a passionate mobile <img src="https://user-imag
 
 Whether you're here to collaborate, ask questions, or just say hi, feel free to reach out! 💌
 
-Thanks for stopping by, and happy coding! 🚀😊
+Thanks for stopping by, and happy coding! 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
