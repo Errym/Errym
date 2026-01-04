@@ -1,10 +1,5 @@
-<div align="left">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
-  Yo, I’m Meryem! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
-</div>
 
-
+Yo, I’m Meryem! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20">
 I'm a developer, I code, design, break things, fix them — repeat,Currently evolving into Software Engineering mode 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -25,7 +20,9 @@ Collab? Question? Random “hi”?
 Pull up 💌
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-*“Turning ideas into code, one app at a time!”* 🌟
+<div align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">*“Turning ideas into code, one app at a time!”* 🌟<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
+</div>
 
 <div align="center">
   
