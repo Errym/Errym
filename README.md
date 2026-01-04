@@ -21,8 +21,6 @@ Welcome to my GitHub corner! I'm a passionate mobile <img src="https://user-imag
 , React Native  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="15" alt="react logo"  />
  and dabbling in Swift  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15" alt="swift logo"  />!
 - **Databases:** SQLite <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="15">, Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="15">, and PostgresQL <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="15">
-- **Relational**: MySQL, PostgreSQL, SQLite
-- **NoSQL**: MongoDB, Firebase
   
  **Currently Exploring:**  Software Engineering ✨
 
