@@ -3,7 +3,9 @@
   Yo, I’m Meryem! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
 </div>
-developer, I code, design, break things, fix them — repeat,Currently evolving into Software Engineering mode 
+
+
+I'm a developer, I code, design, break things, fix them — repeat,Currently evolving into Software Engineering mode 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### Life Outside Code:     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50">&nbsp;
