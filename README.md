@@ -34,29 +34,9 @@ I believe in **continuous learning**, so I'm constantly honing my skills in clou
 - **Relational**: MySQL, PostgreSQL, SQLite
 - **NoSQL**: MongoDB, Firebase
   
- **Currently Exploring:**  Cloud DevOps Engineering 🌈✨
-  
- #### 🌐 Cloud Platforms:
-- **AWS** (EC2, S3, Lambda, RDS)
-- **Google Cloud** (Compute Engine, GCP Kubernetes)
-- **Azure** (App Services, Azure Functions)
-
-#### 🚀 DevOps Tools:
-- **CI/CD**: Jenkins, GitLab CI, AWS CodePipeline
-- **Containerization**: Docker, Kubernetes
-- **IaC**: Terraform, AWS CloudFormation
-- **Monitoring**: Prometheus, Grafana, CloudWatch
+ **Currently Exploring:**  Software Engineering 🌈✨
 
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-- ### 📚 Learning Goals
-- Gain deeper knowledge in **Cloud Computing** (AWS, GCP, Azure).
-- Master **CI/CD pipelines** and **DevOps Automation**.
-- Become proficient in **Containerization & Orchestration** (Docker & Kubernetes).
-- Understand **Infrastructure as Code (IaC)** tools and best practices.
-- Improve cloud security and scalability knowledge.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### Let’s Connect! <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="70">
 
