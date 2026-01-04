@@ -4,12 +4,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
 </div>
 
-Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation!, ecently expanded my horizons into **Software Engineering **. With a solid foundation in mobile development (Java, Kotlin, Flutter)
+Welcome to my GitHub corner! I'm a passionate **mobile - <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="15">/<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="17"> developerwho loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation!, ecently expanded my horizons into **Software Engineering **. With a solid foundation in mobile development (Java, Kotlin, Flutter)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### A Little About Me:     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50">&nbsp;
-- <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="15">/<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="17"> **Mobile Dev Enthusiast** – I create apps that blend functionality with flair!
+ **Mobile Dev Enthusiast** – I create apps that blend functionality with flair!
 -  **Constant Learner** – Currently diving into advanced frameworks and tools to level up my skills.
 -  **Music Lover** – I sing when I’m coding my way through tricky problems 
 -  **Foodie**, 📚 **Manga Reader**, & 🎬 **Anime Lover** – Coding fuel and chill vibes. 
