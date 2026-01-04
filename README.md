@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
 </div>
 
-Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation!, ecently expanded my horizons into **Software Engineering **. With a solid foundation in mobile development (Java, Kotlin, Flutter), I'm now focusing on building scalable and secure Apps while automating deployment pipelines to enhance development workflows.
+Welcome to my GitHub corner! I'm a passionate **mobile developer** 📱💻who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation!, ecently expanded my horizons into **Software Engineering **. With a solid foundation in mobile development (Java, Kotlin, Flutter)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
