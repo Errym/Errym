@@ -9,11 +9,9 @@ Welcome to my GitHub corner! I'm a passionate mobile <img src="https://user-imag
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### A Little About Me:     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50">&nbsp;
--  **Mobile Dev Enthusiast** – I create apps that blend functionality with flair!
--  **Constant Learner** – Currently diving into advanced frameworks and tools to level up my skills.
--  **Music Lover** – I sing when I’m coding my way through tricky problems 
--  **Foodie**, **Manga Reader**, &  **Anime Lover** – Coding fuel and chill vibes. 
-
+-  **Mobile Dev Enthusiast** – i do developer stuff
+-  **Music Lover** – i sing, i write, yes i'm a music rat
+-  **Foodie**, **Manga Reader**, &  **Anime Lover** 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### My Toolkit   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;
