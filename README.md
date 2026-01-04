@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
 </div>
 
-Welcome to my GitHub corner! I'm a passionate **mobile <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="15">/<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="17"> developer who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation!, ecently expanded my horizons into **Software Engineering **. With a solid foundation in mobile development (Java, Kotlin, Flutter)
+Welcome to my GitHub corner! I'm a passionate mobile <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="15">/<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="17"> developer who loves crafting beautiful apps and exploring the latest in tech. Here, you’ll find my adventures in coding, sprinkled with creativity and a dash of innovation!, ecently expanded my horizons into **Software Engineering **. With a solid foundation in mobile development (Java, Kotlin, Flutter)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
