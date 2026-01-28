@@ -12,7 +12,7 @@ Currently evolving into **Software Engineering mode** 🚀
 
 ---
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40" /> ### Tech Stack
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40" />Tech Stack
 
 - **Mobile**: Java • Kotlin • Flutter • React Native  
 - **DB & Backend**: Firebase • SQLite • PostgreSQL  
@@ -21,8 +21,7 @@ Currently evolving into **Software Engineering mode** 🚀
 
 ---
 
-### 🎧 Life Outside Code
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50" /> Life Outside Code
 
 - 📱 **Mobile Dev Enthusiast** — building & breaking apps
 - 🎶 **Music Lover** — singing, writing, living the vibe
@@ -32,8 +31,7 @@ Currently evolving into **Software Engineering mode** 🚀
 
 ---
 
-### 💬 Let’s Talk!
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="70" />
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="70" />Let’s Talk!
 
 Collab? Question? Random “hi”?  
 Pull up 💌
