@@ -10,39 +10,35 @@ I’m a developer — I code, design, break things, fix them… repeat. Currentl
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40" />Tech Stack
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40" /> **Tech Stack**
 
-![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React Native](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-![REST API](https://img.shields.io/badge/REST_API-black?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![OOP](https://img.shields.io/badge/OOP-black?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-black?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-black?style=flat-square)
-![State Management](https://img.shields.io/badge/State_Management-black?style=flat-square)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=flat-square&logo=android-studio)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+<div align="center">
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" alt="Kotlin" title="Kotlin"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React Native" title="React Native"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST API" title="REST API"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" title="VS Code"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+  <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50" /> Life Outside Code
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50" /> **Life Outside Code**
 
 - 📱 **Mobile Dev Enthusiast** — building & breaking apps
 - 🎶 **Music Lover** — singing, writing, living the vibe
@@ -51,13 +47,24 @@ I’m a developer — I code, design, break things, fix them… repeat. Currentl
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="70" />Let’s Talk!
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="70" /> **Let’s Talk!**
 
-Collab? Question? Random “hi”?  
-Pull up 💌
+<div align="center">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Errym&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+<img
+  src="https://streak-stats.demolab.com?user=Errym&theme=tokyonight&hide_border=true"
+/>
+</div>
+<br/>
+<div align="center">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Errym&theme=tokyo-night&hide_border=true"
+/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
