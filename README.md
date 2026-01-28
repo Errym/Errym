@@ -40,14 +40,14 @@ I’m a developer — I code, design, break things, fix them… repeat. Currentl
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50" /> **Life Outside Code**
 
-- 📱 **Mobile Dev Enthusiast** — building & breaking apps
-- 🎶 **Music Lover** — singing, writing, living the vibe
-- 🍜 **Foodie**, 📚 **Manga Reader**, 🎌 **Anime Lover**
+- **Mobile Dev Enthusiast** — building & breaking apps
+- **Music Lover** — singing, writing, living the vibe
+- **Foodie**, **Manga Reader**, **Anime Lover**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="70" /> **GitHub Stats**
+**GitHub Stats**
 
 <div align="center">
 <img
