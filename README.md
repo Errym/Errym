@@ -11,6 +11,7 @@ I’m a developer — I code, design, break things, fix them… repeat. Currentl
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40" />Tech Stack
+
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
