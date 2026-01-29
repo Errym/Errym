@@ -1,16 +1,15 @@
 <div align="center">
-  Yo, I’m <strong>Meryem</strong>!
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+There!;I'm+Meryem%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
 </div>
 
 <br/>
 
-I’m a developer — I code, design, break things, fix them… repeat. Currently evolving into **Software Engineering mode** 
+ I code, design, break things, fix them…. Currently evolving into **Software Engineering mode** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40" /> **Tech Stack**
+ **Tech Stack**
 
 <div align="center">
   <code><img width="43" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
@@ -38,8 +37,7 @@ I’m a developer — I code, design, break things, fix them… repeat. Currentl
 
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50" /> **Life Outside Code**
-
+ **Life Outside Code**
 - **Mobile Dev Enthusiast** — building & breaking apps
 - **Music Lover** — singing, writing, living the vibe
 - **Foodie**, **Manga Reader**, **Anime Lover**
@@ -48,6 +46,7 @@ I’m a developer — I code, design, break things, fix them… repeat. Currentl
 
 
 **GitHub Stats**
+
 
 <div align="center">
 <img
@@ -73,5 +72,6 @@ I’m a developer — I code, design, break things, fix them… repeat. Currentl
 </div>
 
 <br/>
+
 
 
