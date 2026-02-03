@@ -51,10 +51,14 @@
 <div align="center">
 
 </div>
+
+![Errym's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=errym&show_icons=true&theme=highcontrast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=errym&theme=highcontrast)](https://github.com/errym/github-readme-stats-fast)
+
 <br/>
 <div align="center">
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Errym&theme=tokyo-night&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Errym&theme=tokyonight&hide_border=true"
 />
 </div>
 
