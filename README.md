@@ -52,7 +52,7 @@
 
 </div>
 
-![Errym's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=errym&show_icons=true&theme=midnight-purple)
+![Errym's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=errym&show_icons=true&theme=midnight-purple )
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=errym&theme=midnight-purple)](https://github.com/errym/github-readme-stats-fast)
 
 <br/>
@@ -65,7 +65,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
   <em>"I don’t chase bugs, they chase me"</em>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" />
 </div>
