@@ -33,7 +33,7 @@
   <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /> m
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /> 
 
 
 
@@ -43,10 +43,6 @@
 - **Foodie**, **Manga Reader**, **Anime Lover**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-
-**GitHub Stats**
-
 
 <div align="center">
 
