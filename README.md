@@ -50,12 +50,10 @@
 
 <div align="center">
 
-</div>
+| GitHub Stats | GitHub Streak |
+|-------------|---------------|
+| ![](https://github-readme-stats-fast.vercel.app/api?username=errym&show_icons=true&theme=midnight-purple) | ![](https://github-readme-stats-fast.vercel.app/api/streak?username=errym&theme=midnight-purple) |
 
-![Errym's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=errym&show_icons=true&theme=midnight-purple )
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=errym&theme=midnight-purple)](https://github.com/errym/github-readme-stats-fast)
-
-<br/>
 <div align="center">
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Errym&theme=midnight-purple&hide_border=true"
