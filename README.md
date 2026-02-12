@@ -46,7 +46,7 @@
 
 <div align="center">
 
-| GitHub Stats | GitHub Streak |
+| **GitHub Stats** | **GitHub Streak** |
 |-------------|---------------|
 | ![](https://github-readme-stats-fast.vercel.app/api?username=errym&show_icons=true&theme=midnight-purple) | ![](https://github-readme-stats-fast.vercel.app/api/streak?username=errym&theme=midnight-purple) |
 
