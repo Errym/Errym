@@ -52,7 +52,7 @@
 
 <div align="center">
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Errym&theme=material-palenight&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Errym&theme=darkpink&hide_border=true"
 />
 </div>
 
