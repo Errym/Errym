@@ -4,7 +4,7 @@
 
 <br/>
 
- I code, design, break things, fix them…. Currently evolving into **Software Engineering mode** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45" />
+ I code, design, break things, fix them…. Currently evolving into **Software Engineering mode**. <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
