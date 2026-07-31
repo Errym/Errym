@@ -35,12 +35,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /> 
 
-
-
- ## ***Life Outside Code*** ##
+ ## **Currently** ##
 - **Mobile Dev Enthusiast** : building & breaking apps.
 - **Books\Music Rat**, **Writer**, **SongWriter**, **Foodie**, **Manga Reader**, **Anime Lover**.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+
+
+ ## ***Life Outside Code*** ##
+Beyond coding, I enjoy reading, writing, and music. I'm driven by curiosity, continuous learning, and solving meaningful problems through technology.
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <div align="center">
